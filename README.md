@@ -91,7 +91,7 @@ Click here for the [Documentation](https://colab.research.google.com/drive/1hnI9
 
 ### Data Source
 
-Both Application and Industry data were provided by GoIT as part of its course work.
+Both Application and Industry data were provided by [GoIT](https://goit.global/ph/) as part of its course work.
 
 ### Tools
 
